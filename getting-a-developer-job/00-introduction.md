@@ -1,0 +1,7 @@
+# About this Guide
+
+In this series of articles, we'll help you to understand the career development steps you'll need to take to get a new job with your new technical skills. These resources are designed to be consumed alongside your technical journey with Premium. You can complete them at any pace you'd like, but we'd strongly suggest you finish at least an initial read of the entire series (minus the reading lists) by the time you deploy your initial portfolio piece to Firebase. After all, you should be confident in charting your own path forward before you get too far down it.
+
+## The Resources & Recommendations
+
+Codecademy of course institutionally knows this topic pretty well, but we don't have a ton of material made _by us_ on the topic, and it's a big one. Thus, like the Premium curriculum material itself, we've worked more to _curate_ the right resources for you from the wider world of online and offline resources. There are a _lot_ of clickbait think pieces and noise out there, but we've cut that firehose down to something manageable. Importantly, we're looking very critically at this quest, avoiding the sort of moonshot "how to go from zero to a job in six months" posts and treating this long path ahead of you with the realism it deserves.  We hope that will make it all real, relatable, and actionable.  It will take you a long time, a lot of hard work and heartaches, but you can make it and we're here to help.
