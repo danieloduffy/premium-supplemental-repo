@@ -10,7 +10,10 @@ Happy coding and happy learning!  Let's do this.
 
 <img src="https://i.imgur.com/R7ncGUI.png" width="150"/>
 
-## Index
+There were links here but they broke when I ported this repo to my personal account from the one we used for Premium.  Use the folders to browse instead.
+
+<!---
+## Index~~
 
 ### Coding Tools
 
@@ -58,3 +61,4 @@ This unit is not designed to be consumed in any particular order, but at leisure
 * [Code Review Guide](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/group-coding-how-to/code-review-guide.md)
 * [Pair-Programming Guide](https://github.com/codecademy-coaches/premium-supplemental-repo/blob/master/group-coding-how-to/pair-programming-guide.md)
 * More units to come!
+--->
